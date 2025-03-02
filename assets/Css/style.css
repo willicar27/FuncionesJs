@@ -1,0 +1,13 @@
+* {
+    padding: auto;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #fef0f0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+}
